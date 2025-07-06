@@ -47,7 +47,7 @@ Numerically solve the 1D time-independent Schrödinger equation for:
 - **Double Well**: Level splitting due to tunneling effects.  
 - **Hydrogen Atom (Radial)**: Radial part of the 3D Schrödinger equation for hydrogen-like orbitals.
 
-The project demonstrates the effectiveness of numerical methods (finite differences and Numerov's), achieving relative errors between \(10^{-3}\) and \(10^{-7}\) for grid sizes around \(N \sim 1000\). Analytical solutions for hydrogen complement the numerical results.
+The project demonstrates the effectiveness of numerical methods (finite differences and Numerov's), achieving relative errors between `10^-3` and `10^-7` for grid sizes around `N ~ 1000`. Analytical solutions for hydrogen complement the numerical results.
 
 ---
 
