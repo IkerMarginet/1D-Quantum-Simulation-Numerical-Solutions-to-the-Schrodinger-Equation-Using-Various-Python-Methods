@@ -84,3 +84,13 @@ The project demonstrates the effectiveness of numerical methods (finite differen
 1. Ensure Python 3.x and required libraries are installed:
    ```bash
    pip install numpy scipy matplotlib
+
+---
+
+## Contact
+
+For feedback, academic collaboration, or simulation requests:
+
+- **GitHub**: [github.com/IkerMarginet](https://github.com/IkerMarginet)
+- **Email**: ikergenki@gmail.com
+
